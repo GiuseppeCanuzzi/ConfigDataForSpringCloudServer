@@ -1,3 +1,4 @@
 ---
-luckyWord: Finished!
-preamble: This is my lucky word
+wordConfig:
+  luckyWord: Finished!
+  preamble: This is my lucky word
